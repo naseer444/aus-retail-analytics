@@ -1,0 +1,11 @@
+supplier_id,supplier_name,country,category,lead_time_days,reliability_score,contract_start,payment_terms_days,is_preferred
+SUP001,Pacific Leather Co,Vietnam,Leather & Materials,30,0.82,2016-08-02,45,N
+SUP002,Southern Cross Rubber,Australia,Sole Components,56,0.81,2018-05-09,30,N
+SUP003,Apex Textiles,Bangladesh,Fabric & Lining,11,0.81,2018-02-16,60,N
+SUP004,TechSole Industries,China,Synthetic Soles,25,0.79,2019-10-11,60,Y
+SUP005,Alpine Materials,New Zealand,Insulation & Padding,28,0.74,2018-09-21,30,N
+SUP006,Brisbane Packaging,Australia,Boxes & Packaging,26,0.98,2018-12-01,60,N
+SUP007,GlobalThread Co,India,Stitching Materials,15,0.88,2020-04-05,30,N
+SUP008,OzSafety Supplies,Australia,Safety Components,42,0.82,2019-06-10,45,Y
+SUP009,AsiaPac Components,Taiwan,Hardware & Eyelets,49,0.91,2020-04-23,60,Y
+SUP010,EcoSoles Ltd,Netherlands,Recycled Sole Material,48,0.9,2017-11-07,45,Y

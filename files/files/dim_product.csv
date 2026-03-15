@@ -1,0 +1,177 @@
+product_id,product_name,category,subcategory,brand,supplier_id,unit_cost_aud,unit_price_aud,weight_kg,country_of_origin,is_active
+PRD1000,Work Boots - Style A,Clothing & Footwear,Work Boots,OzStride,SUP003,19.13,34.15,1.89,Indonesia,Y
+PRD1001,Work Boots - Style B,Clothing & Footwear,Work Boots,StepUp,SUP004,112.43,162.4,0.74,Indonesia,Y
+PRD1002,Casual Footwear - Style A,Clothing & Footwear,Casual Footwear,PeakWear,SUP004,133.14,317.12,1.23,China,Y
+PRD1003,Casual Footwear - Style B,Clothing & Footwear,Casual Footwear,PeakWear,SUP006,140.2,227.62,0.84,Vietnam,Y
+PRD1004,Casual Footwear - Style C,Clothing & Footwear,Casual Footwear,TerraFirm,SUP006,31.86,61.55,1.59,Australia,N
+PRD1005,Safety Boots - Style A,Clothing & Footwear,Safety Boots,UrbanStep,SUP005,175.56,338.82,2.11,Indonesia,Y
+PRD1006,Safety Boots - Style B,Clothing & Footwear,Safety Boots,StepUp,SUP004,110.26,263.12,1.98,Australia,Y
+PRD1007,Sneakers - Style A,Clothing & Footwear,Sneakers,TerraFirm,SUP003,77.72,158.14,1.05,Vietnam,Y
+PRD1008,Sneakers - Style B,Clothing & Footwear,Sneakers,StepUp,SUP010,130.8,308.29,1.66,Indonesia,Y
+PRD1009,Sandals - Style A,Clothing & Footwear,Sandals,RockSolid,SUP009,91.27,162.27,0.71,China,Y
+PRD1010,Sandals - Style B,Clothing & Footwear,Sandals,TerraFirm,SUP007,52.79,76.28,0.82,Vietnam,Y
+PRD1011,Sandals - Style C,Clothing & Footwear,Sandals,RockSolid,SUP008,50.08,105.11,0.53,Vietnam,Y
+PRD1012,Dress Shoes - Style A,Clothing & Footwear,Dress Shoes,UrbanStep,SUP007,138.26,276.49,1.03,Vietnam,N
+PRD1013,Dress Shoes - Style B,Clothing & Footwear,Dress Shoes,StepUp,SUP003,30.0,43.98,1.64,Bangladesh,Y
+PRD1014,Dress Shoes - Style C,Clothing & Footwear,Dress Shoes,PeakWear,SUP009,78.49,175.37,0.78,Indonesia,Y
+PRD1015,Dress Shoes - Style D,Clothing & Footwear,Dress Shoes,UrbanStep,SUP005,127.25,198.56,1.97,China,Y
+PRD1016,Kids Footwear - Style A,Clothing & Footwear,Kids Footwear,RockSolid,SUP005,86.74,176.53,2.44,Vietnam,Y
+PRD1017,Kids Footwear - Style B,Clothing & Footwear,Kids Footwear,RockSolid,SUP009,158.64,288.38,1.6,Vietnam,Y
+PRD1018,Kids Footwear - Style C,Clothing & Footwear,Kids Footwear,UrbanStep,SUP001,140.81,303.46,1.58,Bangladesh,Y
+PRD1019,Kids Footwear - Style D,Clothing & Footwear,Kids Footwear,TerraFirm,SUP004,33.46,63.85,0.33,Indonesia,Y
+PRD1020,Outdoor Boots - Style A,Clothing & Footwear,Outdoor Boots,UrbanStep,SUP003,135.76,345.16,0.5,Bangladesh,Y
+PRD1021,Outdoor Boots - Style B,Clothing & Footwear,Outdoor Boots,PeakWear,SUP004,58.73,153.96,2.34,Vietnam,Y
+PRD1022,Insoles & Accessories - Style A,Clothing & Footwear,Insoles & Accessories,PeakWear,SUP009,179.2,413.92,1.24,Vietnam,Y
+PRD1023,Insoles & Accessories - Style B,Clothing & Footwear,Insoles & Accessories,UrbanStep,SUP004,25.56,36.54,1.55,Australia,Y
+PRD1024,Insoles & Accessories - Style C,Clothing & Footwear,Insoles & Accessories,StepUp,SUP001,131.79,195.37,2.18,Australia,Y
+PRD1025,Insoles & Accessories - Style D,Clothing & Footwear,Insoles & Accessories,UrbanStep,SUP003,60.95,126.75,1.86,Indonesia,N
+PRD1026,Insoles & Accessories - Style E,Clothing & Footwear,Insoles & Accessories,PeakWear,SUP004,55.09,113.6,0.42,Bangladesh,Y
+PRD1027,Boot Care - Style A,Clothing & Footwear,Boot Care,StepUp,SUP002,82.83,216.13,0.34,China,Y
+PRD1028,Boot Care - Style B,Clothing & Footwear,Boot Care,PeakWear,SUP003,56.03,93.36,1.17,China,N
+PRD1029,Boot Care - Style C,Clothing & Footwear,Boot Care,PeakWear,SUP009,56.22,151.38,0.43,Indonesia,Y
+PRD1030,Boot Care - Style D,Clothing & Footwear,Boot Care,OzStride,SUP003,174.88,471.64,1.13,Bangladesh,Y
+PRD1031,Boot Care - Style E,Clothing & Footwear,Boot Care,OzStride,SUP007,157.67,419.94,0.2,Bangladesh,Y
+PRD1032,Snacks - Style A,Food & Grocery,Snacks,RockSolid,SUP009,62.07,147.43,1.72,Bangladesh,Y
+PRD1033,Snacks - Style B,Food & Grocery,Snacks,StepUp,SUP010,46.33,78.98,1.89,Australia,Y
+PRD1034,Snacks - Style C,Food & Grocery,Snacks,UrbanStep,SUP009,24.43,54.18,0.56,Indonesia,Y
+PRD1035,Snacks - Style D,Food & Grocery,Snacks,StepUp,SUP004,155.47,232.57,1.13,Indonesia,Y
+PRD1036,Snacks - Style E,Food & Grocery,Snacks,StepUp,SUP007,110.52,160.88,1.71,Indonesia,Y
+PRD1037,Beverages - Style A,Food & Grocery,Beverages,OzStride,SUP005,48.7,117.01,1.11,China,N
+PRD1038,Beverages - Style B,Food & Grocery,Beverages,StepUp,SUP001,67.17,164.74,1.25,Indonesia,Y
+PRD1039,Beverages - Style C,Food & Grocery,Beverages,TerraFirm,SUP003,27.09,46.01,2.35,Australia,Y
+PRD1040,Beverages - Style D,Food & Grocery,Beverages,UrbanStep,SUP005,75.97,123.14,1.61,Indonesia,Y
+PRD1041,Dairy - Style A,Food & Grocery,Dairy,OzStride,SUP005,168.74,260.71,0.47,Australia,Y
+PRD1042,Dairy - Style B,Food & Grocery,Dairy,RockSolid,SUP006,59.94,134.67,0.67,China,N
+PRD1043,Dairy - Style C,Food & Grocery,Dairy,StepUp,SUP002,56.44,150.78,1.66,China,Y
+PRD1044,Dairy - Style D,Food & Grocery,Dairy,RockSolid,SUP005,15.59,38.66,0.57,Bangladesh,N
+PRD1045,Bakery - Style A,Food & Grocery,Bakery,RockSolid,SUP003,33.46,91.11,1.45,China,Y
+PRD1046,Bakery - Style B,Food & Grocery,Bakery,TerraFirm,SUP001,85.91,125.3,2.27,Vietnam,Y
+PRD1047,Frozen Food - Style A,Food & Grocery,Frozen Food,PeakWear,SUP010,73.36,160.21,1.92,Vietnam,Y
+PRD1048,Frozen Food - Style B,Food & Grocery,Frozen Food,PeakWear,SUP001,176.07,446.35,0.61,China,N
+PRD1049,Canned Goods - Style A,Food & Grocery,Canned Goods,StepUp,SUP007,59.02,147.69,2.21,Bangladesh,Y
+PRD1050,Canned Goods - Style B,Food & Grocery,Canned Goods,TerraFirm,SUP005,47.93,128.73,2.09,Vietnam,Y
+PRD1051,Canned Goods - Style C,Food & Grocery,Canned Goods,TerraFirm,SUP005,18.9,31.57,2.19,China,Y
+PRD1052,Fresh Produce - Style A,Food & Grocery,Fresh Produce,TerraFirm,SUP001,127.12,328.11,0.47,China,Y
+PRD1053,Fresh Produce - Style B,Food & Grocery,Fresh Produce,StepUp,SUP002,110.8,307.69,1.57,China,Y
+PRD1054,Fresh Produce - Style C,Food & Grocery,Fresh Produce,StepUp,SUP007,87.0,241.68,2.27,Vietnam,Y
+PRD1055,Fresh Produce - Style D,Food & Grocery,Fresh Produce,UrbanStep,SUP009,22.32,44.87,1.78,Vietnam,Y
+PRD1056,Fresh Produce - Style E,Food & Grocery,Fresh Produce,TerraFirm,SUP010,86.16,235.08,0.92,Australia,Y
+PRD1057,Condiments - Style A,Food & Grocery,Condiments,RockSolid,SUP005,125.04,232.16,1.48,Vietnam,N
+PRD1058,Condiments - Style B,Food & Grocery,Condiments,RockSolid,SUP003,124.71,240.79,1.62,China,N
+PRD1059,Condiments - Style C,Food & Grocery,Condiments,TerraFirm,SUP004,105.41,147.63,1.19,Indonesia,Y
+PRD1060,Condiments - Style D,Food & Grocery,Condiments,OzStride,SUP009,91.72,185.18,1.29,Vietnam,Y
+PRD1061,Cereals - Style A,Food & Grocery,Cereals,TerraFirm,SUP002,100.05,228.73,2.08,Vietnam,Y
+PRD1062,Cereals - Style B,Food & Grocery,Cereals,StepUp,SUP001,52.07,87.41,0.76,Bangladesh,Y
+PRD1063,Cereals - Style C,Food & Grocery,Cereals,UrbanStep,SUP004,90.14,238.02,1.85,Bangladesh,N
+PRD1064,Cereals - Style D,Food & Grocery,Cereals,RockSolid,SUP001,80.94,130.04,2.25,Australia,N
+PRD1065,Health Food - Style A,Food & Grocery,Health Food,UrbanStep,SUP008,44.02,120.67,0.32,Vietnam,Y
+PRD1066,Health Food - Style B,Food & Grocery,Health Food,RockSolid,SUP009,90.32,227.79,2.47,Indonesia,Y
+PRD1067,Health Food - Style C,Food & Grocery,Health Food,UrbanStep,SUP009,171.76,454.82,1.18,Indonesia,N
+PRD1068,Power Tools - Style A,Hardware & Garden,Power Tools,TerraFirm,SUP004,137.7,284.29,2.13,China,N
+PRD1069,Power Tools - Style B,Hardware & Garden,Power Tools,StepUp,SUP005,118.41,211.3,0.74,China,Y
+PRD1070,Power Tools - Style C,Hardware & Garden,Power Tools,OzStride,SUP004,162.35,245.6,1.08,Vietnam,Y
+PRD1071,Hand Tools - Style A,Hardware & Garden,Hand Tools,PeakWear,SUP007,83.45,155.49,0.34,Bangladesh,N
+PRD1072,Hand Tools - Style B,Hardware & Garden,Hand Tools,RockSolid,SUP001,164.3,364.37,2.17,Indonesia,N
+PRD1073,Fasteners - Style A,Hardware & Garden,Fasteners,PeakWear,SUP007,15.97,30.22,1.44,Indonesia,Y
+PRD1074,Fasteners - Style B,Hardware & Garden,Fasteners,PeakWear,SUP001,95.56,170.3,1.09,Bangladesh,Y
+PRD1075,Fasteners - Style C,Hardware & Garden,Fasteners,UrbanStep,SUP009,153.68,412.99,0.26,Bangladesh,Y
+PRD1076,Fasteners - Style D,Hardware & Garden,Fasteners,PeakWear,SUP003,28.85,57.7,0.32,Bangladesh,Y
+PRD1077,Fasteners - Style E,Hardware & Garden,Fasteners,PeakWear,SUP005,49.92,92.73,1.93,Bangladesh,Y
+PRD1078,Garden Hoses - Style A,Hardware & Garden,Garden Hoses,StepUp,SUP006,92.6,226.74,0.72,Australia,Y
+PRD1079,Garden Hoses - Style B,Hardware & Garden,Garden Hoses,OzStride,SUP001,139.45,380.62,1.63,Vietnam,Y
+PRD1080,Lawn Mowers - Style A,Hardware & Garden,Lawn Mowers,OzStride,SUP008,125.46,274.7,1.81,China,Y
+PRD1081,Lawn Mowers - Style B,Hardware & Garden,Lawn Mowers,RockSolid,SUP002,114.97,316.08,1.99,Vietnam,Y
+PRD1082,Lawn Mowers - Style C,Hardware & Garden,Lawn Mowers,TerraFirm,SUP010,32.84,47.16,1.76,Bangladesh,N
+PRD1083,Lawn Mowers - Style D,Hardware & Garden,Lawn Mowers,UrbanStep,SUP004,170.34,285.77,0.43,China,Y
+PRD1084,Lawn Mowers - Style E,Hardware & Garden,Lawn Mowers,StepUp,SUP006,146.38,320.91,1.43,China,Y
+PRD1085,Paint - Style A,Hardware & Garden,Paint,PeakWear,SUP002,17.09,33.98,1.2,China,N
+PRD1086,Paint - Style B,Hardware & Garden,Paint,RockSolid,SUP009,131.71,264.7,2.42,China,N
+PRD1087,Paint - Style C,Hardware & Garden,Paint,UrbanStep,SUP005,91.7,234.39,0.94,Vietnam,Y
+PRD1088,Paint - Style D,Hardware & Garden,Paint,PeakWear,SUP010,61.02,123.94,1.6,Bangladesh,Y
+PRD1089,Plumbing - Style A,Hardware & Garden,Plumbing,PeakWear,SUP004,96.56,179.12,1.02,China,Y
+PRD1090,Plumbing - Style B,Hardware & Garden,Plumbing,TerraFirm,SUP009,61.14,136.62,0.22,Vietnam,Y
+PRD1091,Electrical - Style A,Hardware & Garden,Electrical,OzStride,SUP008,133.81,278.86,1.69,Bangladesh,N
+PRD1092,Electrical - Style B,Hardware & Garden,Electrical,OzStride,SUP007,145.83,223.16,1.79,China,Y
+PRD1093,Electrical - Style C,Hardware & Garden,Electrical,PeakWear,SUP009,93.09,199.52,0.96,Bangladesh,Y
+PRD1094,Storage - Style A,Hardware & Garden,Storage,OzStride,SUP006,56.48,88.61,0.47,Indonesia,Y
+PRD1095,Storage - Style B,Hardware & Garden,Storage,TerraFirm,SUP010,46.6,113.43,2.45,Indonesia,Y
+PRD1096,Storage - Style C,Hardware & Garden,Storage,TerraFirm,SUP004,176.78,453.56,1.03,China,Y
+PRD1097,Storage - Style D,Hardware & Garden,Storage,StepUp,SUP001,131.82,207.91,1.47,Vietnam,N
+PRD1098,Safety Gear - Style A,Hardware & Garden,Safety Gear,PeakWear,SUP008,159.0,350.39,1.21,Vietnam,Y
+PRD1099,Safety Gear - Style B,Hardware & Garden,Safety Gear,StepUp,SUP002,56.66,147.68,1.12,Australia,Y
+PRD1100,Smartphones - Style A,Electronics,Smartphones,TerraFirm,SUP002,39.62,86.69,2.49,Australia,N
+PRD1101,Smartphones - Style B,Electronics,Smartphones,OzStride,SUP009,115.04,288.41,1.07,Bangladesh,Y
+PRD1102,Smartphones - Style C,Electronics,Smartphones,TerraFirm,SUP010,156.93,437.21,1.63,Indonesia,Y
+PRD1103,Laptops - Style A,Electronics,Laptops,StepUp,SUP003,118.21,209.29,0.75,Indonesia,Y
+PRD1104,Laptops - Style B,Electronics,Laptops,RockSolid,SUP010,40.83,80.51,1.28,Australia,Y
+PRD1105,Laptops - Style C,Electronics,Laptops,PeakWear,SUP002,62.54,112.31,1.78,China,Y
+PRD1106,Headphones - Style A,Electronics,Headphones,OzStride,SUP005,33.94,58.2,2.1,Australia,Y
+PRD1107,Headphones - Style B,Electronics,Headphones,RockSolid,SUP010,42.38,77.58,2.32,Bangladesh,Y
+PRD1108,Headphones - Style C,Electronics,Headphones,PeakWear,SUP005,92.34,168.59,1.35,Bangladesh,N
+PRD1109,Headphones - Style D,Electronics,Headphones,PeakWear,SUP006,28.27,41.16,1.59,Australia,Y
+PRD1110,Headphones - Style E,Electronics,Headphones,UrbanStep,SUP010,52.77,123.69,2.39,China,Y
+PRD1111,Tablets - Style A,Electronics,Tablets,TerraFirm,SUP003,92.63,214.17,2.49,Bangladesh,N
+PRD1112,Tablets - Style B,Electronics,Tablets,PeakWear,SUP006,174.89,359.93,0.94,Australia,Y
+PRD1113,Tablets - Style C,Electronics,Tablets,TerraFirm,SUP007,69.42,164.6,2.07,Indonesia,Y
+PRD1114,Smart Home - Style A,Electronics,Smart Home,StepUp,SUP007,29.53,51.78,2.19,Australia,N
+PRD1115,Smart Home - Style B,Electronics,Smart Home,TerraFirm,SUP010,83.19,138.31,1.94,Bangladesh,Y
+PRD1116,Smart Home - Style C,Electronics,Smart Home,TerraFirm,SUP008,48.59,105.39,2.23,Bangladesh,Y
+PRD1117,Smart Home - Style D,Electronics,Smart Home,OzStride,SUP003,19.76,45.09,0.91,Australia,N
+PRD1118,Smart Home - Style E,Electronics,Smart Home,StepUp,SUP008,30.38,84.73,2.38,Vietnam,N
+PRD1119,Cameras - Style A,Electronics,Cameras,PeakWear,SUP008,98.96,176.43,0.76,Indonesia,Y
+PRD1120,Cameras - Style B,Electronics,Cameras,UrbanStep,SUP003,78.29,210.65,2.19,China,N
+PRD1121,Cameras - Style C,Electronics,Cameras,TerraFirm,SUP001,71.08,177.9,0.85,China,N
+PRD1122,Cameras - Style D,Electronics,Cameras,PeakWear,SUP006,157.77,319.51,0.96,Indonesia,N
+PRD1123,Gaming - Style A,Electronics,Gaming,RockSolid,SUP004,168.92,442.14,1.52,Vietnam,N
+PRD1124,Gaming - Style B,Electronics,Gaming,RockSolid,SUP007,22.2,54.23,1.09,Vietnam,N
+PRD1125,Gaming - Style C,Electronics,Gaming,UrbanStep,SUP006,174.2,274.67,2.2,Bangladesh,Y
+PRD1126,Gaming - Style D,Electronics,Gaming,RockSolid,SUP003,101.78,207.6,1.14,Vietnam,Y
+PRD1127,Gaming - Style E,Electronics,Gaming,TerraFirm,SUP010,92.47,254.93,1.79,Australia,Y
+PRD1128,Wearables - Style A,Electronics,Wearables,PeakWear,SUP009,172.43,392.71,0.28,Australia,Y
+PRD1129,Wearables - Style B,Electronics,Wearables,OzStride,SUP002,119.14,320.4,1.2,Australia,Y
+PRD1130,Wearables - Style C,Electronics,Wearables,StepUp,SUP001,88.21,209.2,0.95,Australia,Y
+PRD1131,Wearables - Style D,Electronics,Wearables,OzStride,SUP009,74.15,148.52,1.15,Vietnam,Y
+PRD1132,Wearables - Style E,Electronics,Wearables,PeakWear,SUP010,43.89,98.9,1.77,Bangladesh,Y
+PRD1133,Cables & Adapters - Style A,Electronics,Cables & Adapters,TerraFirm,SUP001,91.09,159.91,2.27,Bangladesh,Y
+PRD1134,Cables & Adapters - Style B,Electronics,Cables & Adapters,PeakWear,SUP006,126.81,205.58,2.47,China,N
+PRD1135,Cables & Adapters - Style C,Electronics,Cables & Adapters,TerraFirm,SUP004,128.9,262.9,2.5,Bangladesh,Y
+PRD1136,Printers - Style A,Electronics,Printers,TerraFirm,SUP005,77.93,148.27,0.25,Bangladesh,Y
+PRD1137,Printers - Style B,Electronics,Printers,RockSolid,SUP001,16.34,42.67,2.29,Bangladesh,Y
+PRD1138,Printers - Style C,Electronics,Printers,TerraFirm,SUP004,143.0,246.27,1.66,Indonesia,Y
+PRD1139,Running Shoes - Style A,Sporting Goods,Running Shoes,RockSolid,SUP001,118.66,316.2,0.91,Bangladesh,Y
+PRD1140,Running Shoes - Style B,Sporting Goods,Running Shoes,StepUp,SUP005,110.63,268.31,0.95,Bangladesh,Y
+PRD1141,Running Shoes - Style C,Sporting Goods,Running Shoes,TerraFirm,SUP009,48.13,120.38,1.35,China,Y
+PRD1142,Gym Equipment - Style A,Sporting Goods,Gym Equipment,TerraFirm,SUP006,165.82,451.34,2.05,Bangladesh,Y
+PRD1143,Gym Equipment - Style B,Sporting Goods,Gym Equipment,RockSolid,SUP007,38.22,105.22,2.42,Indonesia,Y
+PRD1144,Gym Equipment - Style C,Sporting Goods,Gym Equipment,TerraFirm,SUP009,29.9,58.38,0.48,China,Y
+PRD1145,Gym Equipment - Style D,Sporting Goods,Gym Equipment,TerraFirm,SUP002,111.45,284.35,1.75,Bangladesh,Y
+PRD1146,Outdoor Apparel - Style A,Sporting Goods,Outdoor Apparel,StepUp,SUP008,166.02,283.88,2.29,China,N
+PRD1147,Outdoor Apparel - Style B,Sporting Goods,Outdoor Apparel,StepUp,SUP005,34.25,50.12,2.49,Australia,Y
+PRD1148,Outdoor Apparel - Style C,Sporting Goods,Outdoor Apparel,PeakWear,SUP008,53.74,115.68,1.05,Indonesia,N
+PRD1149,Outdoor Apparel - Style D,Sporting Goods,Outdoor Apparel,PeakWear,SUP002,111.91,270.51,2.12,Indonesia,N
+PRD1150,Camping Gear - Style A,Sporting Goods,Camping Gear,PeakWear,SUP008,20.4,39.14,2.39,China,Y
+PRD1151,Camping Gear - Style B,Sporting Goods,Camping Gear,RockSolid,SUP006,176.85,338.54,0.34,China,Y
+PRD1152,Camping Gear - Style C,Sporting Goods,Camping Gear,PeakWear,SUP002,174.75,476.83,1.72,Indonesia,Y
+PRD1153,Camping Gear - Style D,Sporting Goods,Camping Gear,OzStride,SUP010,23.35,43.59,0.67,Indonesia,Y
+PRD1154,Cycling - Style A,Sporting Goods,Cycling,OzStride,SUP010,149.15,257.46,0.21,Vietnam,Y
+PRD1155,Cycling - Style B,Sporting Goods,Cycling,StepUp,SUP001,104.14,262.22,0.5,China,Y
+PRD1156,Cycling - Style C,Sporting Goods,Cycling,TerraFirm,SUP001,112.16,159.5,0.49,Bangladesh,Y
+PRD1157,Swimming - Style A,Sporting Goods,Swimming,UrbanStep,SUP010,93.58,232.94,0.45,Indonesia,Y
+PRD1158,Swimming - Style B,Sporting Goods,Swimming,RockSolid,SUP009,170.99,249.77,0.89,Australia,Y
+PRD1159,Team Sports - Style A,Sporting Goods,Team Sports,StepUp,SUP008,154.8,309.1,1.84,Bangladesh,Y
+PRD1160,Team Sports - Style B,Sporting Goods,Team Sports,OzStride,SUP002,163.38,302.41,0.49,Indonesia,Y
+PRD1161,Team Sports - Style C,Sporting Goods,Team Sports,TerraFirm,SUP008,77.85,174.1,1.36,Bangladesh,Y
+PRD1162,Team Sports - Style D,Sporting Goods,Team Sports,RockSolid,SUP009,145.86,227.57,1.86,Vietnam,N
+PRD1163,Team Sports - Style E,Sporting Goods,Team Sports,TerraFirm,SUP008,89.51,153.95,1.12,Australia,Y
+PRD1164,Yoga & Pilates - Style A,Sporting Goods,Yoga & Pilates,OzStride,SUP008,66.57,116.95,0.35,Australia,Y
+PRD1165,Yoga & Pilates - Style B,Sporting Goods,Yoga & Pilates,TerraFirm,SUP003,86.26,210.68,1.48,Indonesia,Y
+PRD1166,Yoga & Pilates - Style C,Sporting Goods,Yoga & Pilates,RockSolid,SUP007,125.55,247.98,2.2,Australia,Y
+PRD1167,Yoga & Pilates - Style D,Sporting Goods,Yoga & Pilates,UrbanStep,SUP009,114.07,215.86,0.69,Bangladesh,Y
+PRD1168,Yoga & Pilates - Style E,Sporting Goods,Yoga & Pilates,UrbanStep,SUP006,154.8,292.6,0.46,China,Y
+PRD1169,Hiking Gear - Style A,Sporting Goods,Hiking Gear,UrbanStep,SUP010,154.45,426.96,1.75,Indonesia,Y
+PRD1170,Hiking Gear - Style B,Sporting Goods,Hiking Gear,RockSolid,SUP005,115.48,268.02,0.27,China,Y
+PRD1171,Hiking Gear - Style C,Sporting Goods,Hiking Gear,OzStride,SUP003,167.05,315.96,1.5,Bangladesh,Y
+PRD1172,Hiking Gear - Style D,Sporting Goods,Hiking Gear,StepUp,SUP002,38.41,87.82,1.92,Vietnam,N
+PRD1173,Hiking Gear - Style E,Sporting Goods,Hiking Gear,TerraFirm,SUP005,84.27,158.2,1.86,Indonesia,Y
+PRD1174,Sports Nutrition - Style A,Sporting Goods,Sports Nutrition,StepUp,SUP002,40.67,99.89,0.83,Bangladesh,N
+PRD1175,Sports Nutrition - Style B,Sporting Goods,Sports Nutrition,OzStride,SUP009,115.17,228.02,0.46,Bangladesh,Y

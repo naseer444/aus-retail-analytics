@@ -1,0 +1,33 @@
+store_id,store_name,city,state,postcode,store_type,open_date,floor_area_sqm,is_active
+STR001,Sydney Metro,Sydney,NSW,7555,Airport,2015-06-17,659,Y
+STR002,Newcastle Metro,Newcastle,NSW,2372,Standard,2014-06-07,733,Y
+STR003,Wollongong Central,Wollongong,NSW,2062,Standard,2013-05-19,336,Y
+STR004,Parramatta Plaza,Parramatta,NSW,4093,Outlet,2013-09-05,242,Y
+STR005,Melbourne Central,Melbourne,VIC,6074,Pop-Up,2011-12-21,252,Y
+STR006,Geelong Direct,Geelong,VIC,6362,Standard,2015-08-12,692,Y
+STR007,Ballarat Metro,Ballarat,VIC,2590,Pop-Up,2010-06-23,566,Y
+STR008,Bendigo Central,Bendigo,VIC,5766,Flagship,2013-07-06,709,Y
+STR009,Brisbane Direct,Brisbane,QLD,6697,Pop-Up,2017-12-16,775,Y
+STR010,Gold Coast Direct,Gold Coast,QLD,4371,Flagship,2014-07-18,141,Y
+STR011,Cairns Metro,Cairns,QLD,3407,Airport,2015-02-28,490,Y
+STR012,Townsville Central,Townsville,QLD,5577,Flagship,2012-09-23,566,Y
+STR013,Adelaide Outlet,Adelaide,SA,5280,Airport,2010-11-19,525,Y
+STR014,Glenelg Metro,Glenelg,SA,4781,Standard,2013-09-26,292,Y
+STR015,Mount Gambier Central,Mount Gambier,SA,6181,Flagship,2015-12-14,642,Y
+STR016,Whyalla Plaza,Whyalla,SA,4862,Outlet,2018-02-27,780,Y
+STR017,Perth Plaza,Perth,WA,3935,Flagship,2011-08-23,382,Y
+STR018,Fremantle Plaza,Fremantle,WA,3421,Airport,2011-09-19,791,Y
+STR019,Bunbury Central,Bunbury,WA,3451,Pop-Up,2015-03-16,697,Y
+STR020,Geraldton Outlet,Geraldton,WA,5677,Airport,2017-03-18,770,Y
+STR021,Hobart Outlet,Hobart,TAS,4647,Outlet,2011-09-11,570,Y
+STR022,Launceston Central,Launceston,TAS,5841,Pop-Up,2017-01-30,430,Y
+STR023,Devonport Metro,Devonport,TAS,6844,Flagship,2013-12-12,639,Y
+STR024,Burnie Central,Burnie,TAS,4542,Pop-Up,2015-01-26,158,Y
+STR025,Canberra Central,Canberra,ACT,5020,Outlet,2010-11-11,780,Y
+STR026,Belconnen Central,Belconnen,ACT,7038,Airport,2015-09-08,513,Y
+STR027,Tuggeranong Direct,Tuggeranong,ACT,6754,Airport,2010-06-18,580,Y
+STR028,Gungahlin Outlet,Gungahlin,ACT,7339,Standard,2013-08-09,739,Y
+STR029,Darwin Direct,Darwin,NT,6107,Standard,2010-09-11,581,Y
+STR030,Alice Springs Central,Alice Springs,NT,4813,Flagship,2015-08-29,781,Y
+STR031,Palmerston Plaza,Palmerston,NT,2320,Standard,2017-12-08,568,Y
+STR032,Katherine Direct,Katherine,NT,6293,Airport,2016-11-02,282,Y
