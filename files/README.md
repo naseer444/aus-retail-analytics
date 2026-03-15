@@ -202,6 +202,6 @@ All results are logged to `dw.dq_log` and surfaced via `report.vw_dq_latest_resu
 | Star schema / dimensional modelling | `dw.*` tables |
 | Australian retail domain knowledge | Data model, ABS categories, GST |
 
----
 
-*Built as a portfolio project to demonstrate data engineering skills for the Blundstone Data Developer role (JOB-404683).*
+
+
